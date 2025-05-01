@@ -1,0 +1,89 @@
+Category,Subcategory,Item,Quantity,Price
+Household,Cleaning Supplies,toilet paper,7,20.5
+Household,Cleaning Supplies,Tissue paper,10,17.0
+Household,Cleaning Supplies,cleaning sprays,18,15.0
+Household,Cleaning Supplies,sponges,10,3.5
+Household,Kitchen Supplies,cups,74,7.5
+Household,Kitchen Supplies,plates,5,10.0
+Household,Kitchen Supplies,cooking pot,4,56.0
+Household,Kitchen Supplies,cooking pans,31,96.0
+Household,Kitchen Supplies,kettle,19,90.0
+Household,Kitchen Supplies,microwave oven,58,190.0
+Household,Kitchen Supplies,utensils,9,16.0
+Household,Laundry,detergent,61,25.0
+Household,Laundry,fabric softener,43,16.0
+Household,Laundry,bleach,91,15.0
+Household,Laundry,laundry baskets,17,9.99
+Education,Books,textbooks,60,19.0
+Education,Books,workbooks,53,12.0
+Education,Books,reference books,4,32.42
+Education,Books,novels,63,43.51
+Education,Stationery,notebooks,92,9.0
+Education,Stationery,testpad,26,9.0
+Education,Stationery,pens,39,2.5
+Education,Stationery,pencils,79,1.5
+Education,Stationery,erasers,63,1.0
+Education,Stationery,calculators,28,50.0
+Education,Art supplies,crayons,45,20.0
+Education,Art supplies,markers,45,3.46
+Education,Art supplies,brushes,22,7.35
+Education,Art supplies,highlighter,87,3.37
+Education,Art supplies,colour pens,7,15.49
+Electronic,Computers,laptops,77,2469.07
+Electronic,Computers,desktops,85,2942.86
+Electronic,Computers,monitors,73,633.56
+Electronic,Computers,keyboards,60,186.6
+Electronic,Mobile devices,smartphones,26,3509.19
+Electronic,Mobile devices,tablets,65,3037.9
+Electronic,Accessories,screen protector,51,10.45
+Electronic,Accessories,charger,39,97.83
+Electronic,Accessories,headphone,23,57.33
+Electronic,Accessories,earphone,94,20.95
+Electronic,Accessories,usb drives,67,58.41
+Electronic,Accessories,hard drives,62,96.03
+Electronic,Accessories,cables,91,37.17
+Electronic,Accessories,phone case,27,8.89
+Health,Medicine,pain relievers,77,15.77
+Health,Medicine,cold and flu,82,15.01
+Health,Medicine,allergy relief,79,15.43
+Health,Medicine,digestive health,7,10.65
+Health,Medicine,eye drops,3,10.44
+Health,Supplement,vitamins,61,56.22
+Health,Supplement,fish oils,5,64.35
+Health,Supplement,calcium supplements,26,59.31
+Health,Others,first aid kits,45,38.63
+Health,Others,thermometer,58,60.94
+Health,Others,cooling pad,80,7.51
+Health,Others,gel ice pack,17,15.93
+Health,Others,hand sanitizers,75,15.03
+Beauty,Personal care,shampoo,21,35.0
+Beauty,Personal care,conditioner,40,35.23
+Beauty,Personal care,body wash,70,36.14
+Beauty,Personal care,soap,53,24.77
+Beauty,Personal care,toothpaste,88,14.9
+Beauty,Personal care,deodorant,36,20.04
+Beauty,Personal care,perfumes,67,165.46
+Beauty,Cosmetics,foundation,43,26.97
+Beauty,Cosmetics,lipstick,57,100.33
+Beauty,Cosmetics,mascara,49,23.84
+Beauty,Cosmetics,blush,51,29.16
+Beauty,Cosmetics,eyeshadow palettes,54,185.51
+Beauty,Skin care,mask,91,86.26
+Beauty,Skin care,toner,80,25.31
+Beauty,Skin care,moisturizer,12,95.58
+Beauty,Skin care,serum,74,138.41
+Beauty,Skin care,cleanser,40,30.06
+Beauty,Skin care,sunblock,65,25.76
+Beauty,Skin care,lotion,40,50.44
+Toys,Games,monopoly,58,17.02
+Toys,Games,chess,93,18.58
+Toys,Games,jigsaw puzzle,25,10.87
+Toys,Dolls,Barbie,67,12.1
+Toys,Dolls,Action figures,88,15.52
+Sports,Ball Sports,basketballs,5,50.71
+Sports,Ball Sports,footballs,37,43.82
+Sports,Ball Sports,volleyballs,0,57.85
+Sports,Racquet Sports,tennis rackets,28,80.5
+Sports,Racquet Sports,badminton rackets,21,86.62
+Sports,Golf,golf clubs,57,84.75
+Sports,Golf,golf balls,16,81.8
