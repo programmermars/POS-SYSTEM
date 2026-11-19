@@ -1,27 +1,27 @@
 Transaction ID,User ID,Date Time,Items,Total,Delivery Address,Phone Number,Delivery Date,Tracking Number,Status
-TSX8627,2,2024-06-15 16:30:52,"phone case (Quantity: 1, Price: 8.89)",8.89,perak,0185658120,2024-12-21,TK1265,Successful
-TSX7570,JY,2024-06-15 17:04:19,"headphone (Quantity: 1, Price: 57.33)",57.33,perak,01214313252,2024-10-21,TK8757,Successful
-TSX5901,2,2024-06-16 11:19:29,"laundry baskets (Quantity: 1, Price: 9.99)",9.99,perak,01232426423,2024-12-20,TK6798,Pending
-TSX6329,2,2024-06-16 11:21:31,"pens (Quantity: 11, Price: 2.50)",27.5,perak,010568586586,2024-08-21,TK6308,Successful
-TSX3402,JY,2024-06-16 14:20:21,"testpad (Quantity: 1, Price: 9.00)",9.0,perak,0125685866,2024-07-20,TK5221,Pending
-TSX3888,2,2024-06-17 00:43:07,"detergent (Quantity: 1, Price: 25.00)",25.0,Johor,0121241253,2024-06-20,TK9589,Successful
-TSX1427,2,2024-06-17 00:48:39,"allergy relief (Quantity: 1, Price: 15.43)",15.43,Perak,0146345536543,2024-07-20,TK442,Pending
-TSX9029,2,2024-06-17 20:06:52,"pens (Quantity: 1, Price: 2.5)",2.125,Johor,0121231345,2024-07-20,TK6109,Pending
-TSX2398,2,2024-06-17 22:40:19,"Tissue paper (Quantity: 2, Price: 17.00); golf balls (Quantity: 1, Price: 81.8)",104.22,Segamat,012343241,2024-10-21,TK2173,Sucessful
-TSX1762,JY,2024-06-19 11:51:27,"toilet paper (Quantity: 1, Price: 20.50)",20.5,Perak,012267852,2024-06-30,TK9387,Pending
-TSX176,2,2024-06-19 12:14:58,"Barbie (Quantity: 1, Price: 12.10)",12.1,Johor,0158755851,2024-07-20,TK2467,Successful
-TSX9634,2,2024-06-20 14:09:12,"basketballs (Quantity: 1, Price: 50.71); laundry baskets (Quantity: 1, Price: 9.99); mask (Quantity: 1, Price: 86.26); shampoo (Quantity: 1, Price: 35.00)",154.666,"45,Klebang Putra 10, Medan Klebang Putra 30010, Ipoh, Perak",01234567890,2024-06-21,TK3685,Successful
-TSX8553,2,2024-06-20 14:13:38,"basketballs (Quantity: 1, Price: 50.71); golf clubs (Quantity: 2, Price: 84.75)",220.21,"46,KLEBANG PRIMA 10,MEDAN LEBANG PRIMA 30010, IPOH, PERAK",0123456789,2024-06-20,TK2936,Successful
-TSX624,2,2024-06-20 14:15:29,"kettle (Quantity: 2, Price: 90.00)",180.0,"70,KLEBANG PRIMA 5,MEDAN LEBANG PRIMA 30010, IPOH, PERAK",0123456789,2024-06-30,TK2948,Pending
-TSX1224,NN,2024-06-20 23:18:13,"toilet paper (Quantity: 1, Price: 20.50)",17.425,Segamat,0117897600,2024-06-20,TK8146,Pending
-TSX9399,2,2024-06-20 23:34:20,"toilet paper (Quantity: 1, Price: 20.50)",17.425,Perak,0186567523,2024-06-20,TK1408,Successful
-TSX2404,2,2024-06-21 00:29:00,"testpad (Quantity: 12, Price: 9.00)",108.0,Johor,01237697621,2024-06-20,TK9321,Successful
-TSX7785,2,2024-06-24 22:41:53,"sponges (Quantity: 1, Price: 3.50)",2.975,"56,Klebang Jutra, Medan Klebang Kitra, Johor Baru",0182129932,,TK5421,Pending
-TSX5503,JIAYOU,2024-06-25 21:13:54,"tennis rackets (Quantity: 1, Price: 80.50)",68.425,"48,kklebang prima, johor",012013921,,TK9701,Successful
-TSX1743,jiayou,2024-06-25 21:29:51,"workbooks (Quantity: 3, Price: 12.00)",30.6,klebang prima,01326876127,,TK7015,Successful
-TSX3482,2,2024-06-25 21:44:28,"shampoo (Quantity: 1, Price: 35.00)",35.0,"Johor,Malaysia",10922193,,TK6771,Successful
-TSX712,Ayna,2024-06-25 21:56:12,"pain relievers (Quantity: 3, Price: 15.77)",40.2135,"KLuang,Johor",012932938928,,TK9098,Successful
-TSX3287,2,2024-06-25 22:02:21,"cooking pans (Quantity: 20, Price: 96.00)",1920.0,perak,01328137,,TK9147,Sucessful
-TSX4170,2,2024-06-25 22:06:59,"badminton rackets (Quantity: 1, Price: 86.62)",86.62,JB,0193729222,,TK9934,Pending
-TSX1737,2,2024-06-25 22:28:33,"soap (Quantity: 4, Price: 24.77); microwave oven (Quantity: 2, Price: 190.00)",407.21799999999996,"ah-29 vila hertamaf montkiara ,kuala lumpur",0162268704,,TK1295,Failed
-TSX7653,Ayna,2024-06-26 12:34:44,"pain relievers (Quantity: 3, Price: 15.77); moisturizer (Quantity: 2, Price: 95.58)",202.6995,,012713182,,TK5515,Successful
+TSX8627,user1,2024-06-15 16:30:52,"phone case (Quantity: 1, Price: 8.89)",8.89,"1 Jalan Contoh, Demo City",0120000001,2024-12-21,TK1265,Successful
+TSX7570,user2,2024-06-15 17:04:19,"headphone (Quantity: 1, Price: 57.33)",57.33,"2 Jalan Contoh, Demo City",0120000002,2024-10-21,TK8757,Successful
+TSX5901,user1,2024-06-16 11:19:29,"laundry baskets (Quantity: 1, Price: 9.99)",9.99,"3 Jalan Contoh, Demo City",0120000003,2024-12-20,TK6798,Pending
+TSX6329,user1,2024-06-16 11:21:31,"pens (Quantity: 11, Price: 2.50)",27.5,"4 Jalan Contoh, Demo City",0120000004,2024-08-21,TK6308,Successful
+TSX3402,user2,2024-06-16 14:20:21,"testpad (Quantity: 1, Price: 9.00)",9.0,"5 Jalan Contoh, Demo City",0120000005,2024-07-20,TK5221,Pending
+TSX3888,user1,2024-06-17 00:43:07,"detergent (Quantity: 1, Price: 25.00)",25.0,"6 Jalan Contoh, Demo City",0120000006,2024-06-20,TK9589,Successful
+TSX1427,user1,2024-06-17 00:48:39,"allergy relief (Quantity: 1, Price: 15.43)",15.43,"7 Jalan Contoh, Demo City",0120000007,2024-07-20,TK442,Pending
+TSX9029,user1,2024-06-17 20:06:52,"pens (Quantity: 1, Price: 2.5)",2.125,"8 Jalan Contoh, Demo City",0120000008,2024-07-20,TK6109,Pending
+TSX2398,user1,2024-06-17 22:40:19,"Tissue paper (Quantity: 2, Price: 17.00); golf balls (Quantity: 1, Price: 81.8)",104.22,"9 Jalan Contoh, Demo City",0120000009,2024-10-21,TK2173,Sucessful
+TSX1762,user2,2024-06-19 11:51:27,"toilet paper (Quantity: 1, Price: 20.50)",20.5,"10 Jalan Contoh, Demo City",0120000010,2024-06-30,TK9387,Pending
+TSX176,user1,2024-06-19 12:14:58,"Barbie (Quantity: 1, Price: 12.10)",12.1,"11 Jalan Contoh, Demo City",0120000011,2024-07-20,TK2467,Successful
+TSX9634,user1,2024-06-20 14:09:12,"basketballs (Quantity: 1, Price: 50.71); laundry baskets (Quantity: 1, Price: 9.99); mask (Quantity: 1, Price: 86.26); shampoo (Quantity: 1, Price: 35.00)",154.666,"12 Jalan Contoh, Demo City",0120000012,2024-06-21,TK3685,Successful
+TSX8553,user1,2024-06-20 14:13:38,"basketballs (Quantity: 1, Price: 50.71); golf clubs (Quantity: 2, Price: 84.75)",220.21,"13 Jalan Contoh, Demo City",0120000013,2024-06-20,TK2936,Successful
+TSX624,user1,2024-06-20 14:15:29,"kettle (Quantity: 2, Price: 90.00)",180.0,"14 Jalan Contoh, Demo City",0120000014,2024-06-30,TK2948,Pending
+TSX1224,user3,2024-06-20 23:18:13,"toilet paper (Quantity: 1, Price: 20.50)",17.425,"15 Jalan Contoh, Demo City",0120000015,2024-06-20,TK8146,Pending
+TSX9399,user1,2024-06-20 23:34:20,"toilet paper (Quantity: 1, Price: 20.50)",17.425,"16 Jalan Contoh, Demo City",0120000016,2024-06-20,TK1408,Successful
+TSX2404,user1,2024-06-21 00:29:00,"testpad (Quantity: 12, Price: 9.00)",108.0,"17 Jalan Contoh, Demo City",0120000017,2024-06-20,TK9321,Successful
+TSX7785,user1,2024-06-24 22:41:53,"sponges (Quantity: 1, Price: 3.50)",2.975,"18 Jalan Contoh, Demo City",0120000018,,TK5421,Pending
+TSX5503,user4,2024-06-25 21:13:54,"tennis rackets (Quantity: 1, Price: 80.50)",68.425,"19 Jalan Contoh, Demo City",0120000019,,TK9701,Successful
+TSX1743,user5,2024-06-25 21:29:51,"workbooks (Quantity: 3, Price: 12.00)",30.6,"20 Jalan Contoh, Demo City",0120000020,,TK7015,Successful
+TSX3482,user1,2024-06-25 21:44:28,"shampoo (Quantity: 1, Price: 35.00)",35.0,"21 Jalan Contoh, Demo City",0120000021,,TK6771,Successful
+TSX712,user6,2024-06-25 21:56:12,"pain relievers (Quantity: 3, Price: 15.77)",40.2135,"22 Jalan Contoh, Demo City",0120000022,,TK9098,Successful
+TSX3287,user1,2024-06-25 22:02:21,"cooking pans (Quantity: 20, Price: 96.00)",1920.0,"23 Jalan Contoh, Demo City",0120000023,,TK9147,Sucessful
+TSX4170,user1,2024-06-25 22:06:59,"badminton rackets (Quantity: 1, Price: 86.62)",86.62,"24 Jalan Contoh, Demo City",0120000024,,TK9934,Pending
+TSX1737,user1,2024-06-25 22:28:33,"soap (Quantity: 4, Price: 24.77); microwave oven (Quantity: 2, Price: 190.00)",407.21799999999996,"25 Jalan Contoh, Demo City",0120000025,,TK1295,Failed
+TSX7653,user6,2024-06-26 12:34:44,"pain relievers (Quantity: 3, Price: 15.77); moisturizer (Quantity: 2, Price: 95.58)",202.6995,"26 Jalan Contoh, Demo City",0120000026,,TK5515,Successful
