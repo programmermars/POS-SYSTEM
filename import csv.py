@@ -224,13 +224,13 @@ class POS:
         
         self.transaction_id = 0
         self.category_images = {
-            "Household": r'C:\Users\twelv\Downloads\Household.jpeg',
-            "Education": r'C:\Users\twelv\Downloads\Education.jpeg',
-            "Electronic": r'C:\Users\twelv\Downloads\Electronic.jpeg',
-            "Health": r'C:\Users\twelv\Downloads\Health.jpeg',
-            "Beauty": r'C:\Users\twelv\Downloads\Beauty.jpeg',
-             "Toys": r'C:\Users\twelv\Downloads\Toys.jpeg',
-            "Sports": r'C:\Users\twelv\Downloads\Sport.jpeg', 
+            "Household": os.path.join('images', 'Household.jpeg'),
+            "Education": os.path.join('images', 'Education.jpeg'),
+            "Electronic": os.path.join('images', 'Electronic.jpeg'),
+            "Health": os.path.join('images', 'Health.jpeg'),
+            "Beauty": os.path.join('images', 'Beauty.jpeg'),
+             "Toys": os.path.join('images', 'Toys.jpeg'),
+            "Sports": os.path.join('images', 'Sport.jpeg'), 
         } ##access images from the path 
         self.promotion_codes = {
             'DIS10': 0.1,  # 10% discount
